@@ -13,7 +13,7 @@ public class BirthMonth {
             }
             else {
                 // this is for negative integers
-                System.out.println("Your input was a negative integer; please try again.");
+                System.out.println("Your input was a negative integer or greater than 12; please try again.");
             }
         }
         else {
